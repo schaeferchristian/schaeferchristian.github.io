@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "csdev.it.trustedwebactivitydemo",
+    "sha256_cert_fingerprints":
+    ["64:9A:F5:F7:56:D7:A0:45:D1:78:F4:1C:80:32:9F:D1:37:B2:7B:2A:CA:55:A4:C8:5F:AA:7D:7E:DE:5C:81:11"]
+  }
+}]
